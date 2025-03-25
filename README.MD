@@ -49,20 +49,20 @@ El **Instagram Comment Bot** es un script en Python que automatiza el proceso de
 ## Instalación
 
 1. **Clonar el repositorio**:
-   ```bash
+```bash
    git clone https://github.com/vdentesano/instagram-comment-bot.git
    cd instagram-comment-bot
-  ```
+```
 
 2. **Instalar dependencias**:
-  ```bash
+```bash
   pip install -r requirements.txt
-  ```
+```
 
 3. **Ejecutar el script**:
-  ```bash
+```bash
   python ig_comment_bot.py
-  ```
+```
 
 ## Uso
 
