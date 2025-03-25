@@ -57,6 +57,7 @@ El **Instagram Comment Bot** es un script en Python que automatiza el proceso de
 2. **Instalar dependencias**:
   ```bash
   pip install -r requirements.txt
+  ```
 
 3. **Ejecutar el script**:
   ```bash
