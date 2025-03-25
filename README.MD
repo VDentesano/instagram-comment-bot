@@ -23,7 +23,7 @@ El **Instagram Comment Bot** es un script en Python que automatiza el proceso de
 
 ## Características Principales
 
-- **Simulación de Comportamiento Humano**:  
+- **Simulación de Comportamiento Humano**:
   Emula interacciones naturales, como scroll vertical/horizontal, movimientos aleatorios y hover sobre elementos (enlaces, imágenes y botones).
 
 - **Gestión Inteligente de Delays**:  
